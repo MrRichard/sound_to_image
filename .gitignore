@@ -1,0 +1,5 @@
+*.wav
+spectrum*.png
+.vscode/
+__pycache__/
+lib/
